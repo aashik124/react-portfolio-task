@@ -23,13 +23,13 @@ const About = () => {
             I am a Front-End developer living in Kathmandu, Nepal. I am currently studying engineering in IT and passionate about improving my coding skills, building responsive websites and learning new technologies. I love creating clean UI and exploring design patterns. 
           </p>
           <p>
-            <strong>Email:</strong> <a href="mailto:aashik@example.com">aashiqpoudel124@gmail.com</a>
+            <strong>Email:</strong> <a href="mailto:aashiqpoudel124@gmail.com">aashiqpoudel124@gmail.com</a>
           </p>
           <p>
             <strong>Place:</strong> Kathmandu, Nepal
           </p>
           <a
-            href="https://drive.google.com/file/d/1To0Ag8cFBG4BCyCQ8ZwgU6mBv2Ad-Dmb/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1A_SywDnF5esIMBAd8dlJ4JBcncTlvW46/view?usp=drive_link"
             className="resume-btn"
             target="_blank"
             rel="noopener noreferrer"
